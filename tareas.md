@@ -1,5 +1,5 @@
-- [x] tarea 1
-- [x] tarea 2
-- [ ] tarea 3
-- [ ] tarea 4
+- [ ] tarea 1
+- [ ] tarea 2
+- [x] tarea 3
+- [x] tarea 4
 - [ ] tarea 5
